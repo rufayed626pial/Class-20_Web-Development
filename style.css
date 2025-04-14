@@ -1,6 +1,6 @@
 
 .Background{
-    background-color: aquamarine;
+    background-color: greenyellow;
 }
 
 .custom-link{
@@ -10,10 +10,6 @@
 }
 
 .custom-nav-item{
-    padding-top: 20px;
+    padding-top: 10px;
     padding-left: 5px;
-}
-
-.image-slide{
-    height: 735px;
 }
