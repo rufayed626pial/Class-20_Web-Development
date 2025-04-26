@@ -13,3 +13,88 @@
     padding-top: 10px;
     padding-left: 5px;
 }
+
+.custom-product{
+    margin: 5px;
+    width: 254px;
+}
+/*Footer*/
+
+.footer{
+    height: 300px;
+}
+
+@media screen and (max-width: 1399px) {
+    .custom-product {
+        width: 270px;
+    }
+}
+
+@media screen and (max-width: 1199px) {
+    .custom-product {
+        width: 225px;
+    }
+}
+
+@media screen and (max-width: 469px) {
+    .custom-product {
+        width: 210px;
+    }
+}
+
+@media screen and (max-width: 439px) {
+    .custom-product {
+        width: 190px;
+    }
+}
+
+@media screen and (max-width: 399px) {
+    .custom-product {
+        width: 400px;
+    }
+}
+
+/* Footer Style */
+
+@media screen and (max-width: 768px) {
+    .custom-footer-div{
+        width: 100%;
+        margin-top: 15px;
+    }
+    .only{
+        margin-top: 20px;
+    }
+
+    .footer{
+        height: 700px;
+    }
+
+    .footer-elements{
+        padding-left: 190px;
+        
+    }
+}
+
+@media screen and (max-width: 656px) {
+    .footer-elements{
+        padding-left: 80px;
+    }
+}
+
+@media screen and (max-width: 490px) {
+    .footer-elements{
+        padding-left: 50px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .footer-elements{
+        padding-left: 50px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .footer-elements{
+        padding-left: 170px;
+    }
+}
